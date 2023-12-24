@@ -1,5 +1,5 @@
 # This program is designed to read in a list of movie descriptions and
-# compare it an input description. Based on its similarity score the 
+# compare it against an input description. Based on its similarity score the 
 # next movie will be recommended.
 
 # Import the spaCy library
